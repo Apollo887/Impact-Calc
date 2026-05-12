@@ -11,4 +11,4 @@ Units:
 
 Mass (kg) - how heavy the object is
 Velocity (m/s) - how fast it was moving before impact
-Time (s) - how long the collision takes to happen (a car crumple zone makes this longer on purpose, reducing force)
+Time (s) - how long the collision takes to happen.
